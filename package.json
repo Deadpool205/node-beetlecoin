@@ -1,23 +1,23 @@
 {
-  "name": "@Deadpool205/node-sinovatecoin",
+  "name": "@deadpool205/node-beetlecoin",
   "version": "0.1.2",
-  "description": "Sinovate RPC Node Client",
+  "description": "Beetle Coin RPC Node Client",
   "publishConfig": { "registry": "https://npm.pkg.github.com/" },
-  "main": "./sinovate.js",
+  "main": "./beetle.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Deadpool205/node-sinovatecoin.git"
+    "url": "git://github.com/Deadpool205/node-beetlecoin.git"
   },
   "keywords": [
-    "Sinovate"
+    "Beetle"
   ],
   "author": "Deadpool205",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Deadpool205/node-sinovate/issues"
+    "url": "https://github.com/Deadpool205/node-beetlecoin/issues"
   },
-  "homepage": "https://github.com/Deadpool205/node-sinovatecoin"
+  "homepage": "https://github.com/Deadpool205/node-beetlecoin"
 }
