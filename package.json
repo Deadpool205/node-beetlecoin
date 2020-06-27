@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Deadpool205/node-beetlecoin.git"
+    "url": "https://github.com/beetledev/Wallet.git"
   },
   "keywords": [
     "Beetle"
